@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @w1r2s
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, SQL at university
 - 📫 How to reach me ...
 
 <!---
